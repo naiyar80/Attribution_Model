@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*~
+dist/*
+build/*
+*.egg-info/*
+.vscode/*
+.pre-commit-config.yaml
+venv/
+local_nbs/*
